@@ -27,15 +27,14 @@ body {
 .navbar-nav li {
   padding-right: .7rem;
 }
-.navbar-dark .navbar-nav .navbar-link {
-  color: #fff;
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
   padding-top: .8rem;
 }
-.navbar-dark .navbar-nav .navbar-link.active,
-.navbar-dark .navbar-nav .navbar-link:hover {
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
   color: #1ebba3;
 }
-
 /*--- Slider ---*/
 
 .carousel-item {
